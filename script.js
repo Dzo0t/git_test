@@ -1,0 +1,1 @@
+document.body.innerhtml = '<h1>huew mnogo ne bivaet</h1>' 
